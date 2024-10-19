@@ -7,7 +7,7 @@
   
   body {
     background-color: #f5f5dc; /* Light beige */
-    color: #5c4033; /* Dark brown */
+    color: #234445; /* Dark brown */
     line-height: 1.6;
   }
   
@@ -18,7 +18,7 @@
   }
   
   header {
-    background-color: #8b5e3c; /* Medium brown */
+    background-color: #234445; /* Medium brown */
     padding: 40px 0;
     color: #fff;
   }
@@ -46,14 +46,14 @@
   
   nav ul li a.cta {
     padding: 10px 20px;
-    background-color: #d4a373; /* Light brown */
+    background-color: #75a88f; /* Light brown */
     border-radius: 5px;
   }
   
   .hero {
     text-align: center;
     padding: 100px 0;
-    background-color: #f5e3c6; /* Light beige-brown */
+    background-color: #234445; /* Light beige-brown */
   }
   
   .hero h2 {
@@ -94,7 +94,7 @@
   .features {
     text-align: center;
     padding: 50px 0;
-    background-color: #f4e1c1;
+    background-color: #f1f7f7;
   }
   
   .feature {
@@ -105,7 +105,7 @@
   
   .feature i {
     font-size: 40px;
-    color: #d4a373;
+    color: #234445;
   }
   
   .how-it-works {
