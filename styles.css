@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+  }
+  
+  body {
+    background-color: #f5f5dc; /* Light beige */
+    color: #5c4033; /* Dark brown */
+    line-height: 1.6;
+  }
+  
+  .container {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1200px;
+  }
+  
+  header {
+    background-color: #8b5e3c; /* Medium brown */
+    padding: 40px 0;
+    color: #fff;
+  }
+  
+  header .logo h1 {
+    float: left;
+    font-size: 24px;
+  }
+  
+  nav ul {
+    float: right;
+    list-style: none;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-left: 20px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  nav ul li a.cta {
+    padding: 10px 20px;
+    background-color: #d4a373; /* Light brown */
+    border-radius: 5px;
+  }
+  
+  .hero {
+    text-align: center;
+    padding: 100px 0;
+    background-color: #f5e3c6; /* Light beige-brown */
+  }
+  
+  .hero h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  .search-bar input[type="text"] {
+    padding: 10px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 200px;
+  }
+  
+  .search-bar button {
+    padding: 10px 20px;
+    background-color: #8b5e3c;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .cta-buttons .btn {
+    margin: 20px;
+    padding: 15px 30px;
+    background-color: #8b5e3c;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .features {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #f4e1c1;
+  }
+  
+  .feature {
+    display: inline-block;
+    width: 30%;
+    padding: 20px;
+  }
+  
+  .feature i {
+    font-size: 40px;
+    color: #d4a373;
+  }
+  
+  .how-it-works {
+    padding: 50px 0;
+    background-color: #eae1d0;
+  }
+  
+  .how-it-works div {
+    margin-bottom: 30px;
+  }
+  
+  .top-professionals {
+    padding: 50px 0;
+  }
+  
+  .professionals-grid {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .professional-card {
+    text-align: center;
+  }
+  
+  .professional-card img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  
+  .reviews {
+    background-color: #eae1d0;
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  .review {
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    background-color: #8b5e3c;
+    padding: 20px 0;
+    text-align: center;
+    color: #fff;
+  }
+  
+  footer ul {
+    list-style: none;
+  }
+  
+  footer ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  footer ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
